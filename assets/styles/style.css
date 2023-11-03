@@ -1,59 +1,51 @@
 body {
-		background-color:rgb(246, 244, 241);
-		margin: auto;
-		padding: 0%;
-
+	background-color:white;
+	margin: auto;
+	padding: 0%;
 }
 
 p {
-     text-align: center;
-    padding: 0%;
+  text-align: center;
+   padding: 0%;
 }
 
 h1,h2{
-     text-align: center;
-
+    text-align: center;
  }
 
 .italic {
-     font-style: italic;
-
+   font-style: italic;
 }
 
 img {
-     margin: 10px;
-     background-color: aliceblue;
-     border-radius: 5px;
-
+   margin: 10px;
+   background-color: aliceblue;
+    border-radius: 5px;
 }
 
 figure {
-     margin: auto;
-     text-align: center;
-     border: 19px 19px 19px solid white;
-     background-color: white;
-
+    margin: auto;
+   text-align: center;
+   border: 19px 19px 19px solid white;
+   background-color: white;
 }
 
 .line {
-    width: 50%;
-     margin: auto;
- 
+  width: 50%;
+    margin: auto;
 }
 
 .line  ul {
-     display: inline-flex;
-     align-items: start;
-     justify-content: center;
-     flex-direction: column;
-
+   display: inline-flex;
+   align-items: start;
+   justify-content: center;
+   flex-direction: column;
 }
 
 .line li {
-     display: flex;
-     align-items: center;
-     justify-content: center;
-     gap: 1rem;
-     padding: 2%;
-
+   display: flex;
+   align-items: center;
+   justify-content: center;
+    gap: 1rem;
+   padding: 2%;
 }
